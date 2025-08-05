@@ -4,7 +4,7 @@ function AboutSanstha() {
   return (
     <div>
       {/* Header Section */}
-      <section className="py-5 bg-light text-center  border-secondary mb-3">
+      <section className="py-5  text-center  border-secondary mb-3">
         <div className="container">
           <h1 className="mb-3">About Our Sanstha</h1>
           <p className="lead">Empowering education through values, vision, and community leadership.</p>

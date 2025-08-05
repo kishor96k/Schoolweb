@@ -31,7 +31,7 @@ function AboutBoardMembers() {
   return (
     <div>
       {/* Header */}
-      <section className="py-5 bg-light text-center  border-secondary">
+      <section className="py-5 text-center  border-secondary">
         <div className="container">
           <h1 className="mb-3">About Our Board Members</h1>
           <p className="lead">Meet the leadership team guiding our Sanstha’s educational journey.</p>

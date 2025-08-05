@@ -60,6 +60,9 @@ function Navbar() {
             <li className="nav-item">
               <Link className="nav-link" to="/contact" onClick={handleLinkClick}>Contact</Link>
             </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/gallery" onClick={handleLinkClick}>Gallery</Link>
+            </li>
           </ul>
         </div>
       </div>
